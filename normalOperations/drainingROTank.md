@@ -1,3 +1,4 @@
+#normalOperations/transferFromROToNutrientTank.md
 ##Synopsis
 Describes how to dump water out of [RO tank](Valve diagram) with the assist from the main pump. In case of power outage refer to [emergency draining of RO tank](Emergency draining of RO tank).  
 Its OK if computer fill/drain cycle kicks in during draining of RO tank. The only caveat is to avoid mixing nutrients into RO tank. See notes below.

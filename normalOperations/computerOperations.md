@@ -1,3 +1,4 @@
+#normalOperations/computerOperations.md
 ##Synopsis
 Describes system operation under computer control.
 

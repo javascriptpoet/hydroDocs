@@ -1,3 +1,4 @@
+#emergencyOperations/computelessOperations/fillingBuckets.md
 ##Synopsis
 Describes how to fill the buckets without computer help and without flooding the place.  
 The buckets must be drained before normal computer operations are restored to avoid flooding.

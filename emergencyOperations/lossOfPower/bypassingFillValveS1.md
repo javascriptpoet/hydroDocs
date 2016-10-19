@@ -1,3 +1,4 @@
+#emergencyOperations/lossOfPower/bypassingFillValveS1.md
 ##Synopsis
 The computer controls solenoid valve S1 to fill the buckets with the nutrient solution. It is possible to override computer control with the manually bypass valve M4.
 

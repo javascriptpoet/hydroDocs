@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="74bcbc09-24d5-469e-a207-f5e66b6869d3" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_Sidebar.md" afterPath="$PROJECT_DIR$/_Sidebar.md" />
     </list>
     <ignored path="hydroDocs.iws" />
@@ -29,8 +30,8 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="90">
-                <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+              <first_editor relative-caret-position="135">
+                <caret line="9" column="95" selection-start-line="9" selection-start-column="95" selection-end-line="9" selection-end-column="95" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -169,12 +170,12 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/hydroDocs.wiki/Manual-operations.md" />
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/Emergency operations/General-(Emergency-procedures).md" />
         <option value="$PROJECT_DIR$/Emergency operations/Loss of power/Filling buckets.md" />
         <option value="$PROJECT_DIR$/Emergency operations/Loss of power/Draining RO tank.md" />
         <option value="$PROJECT_DIR$/Normal operations/Adjustment of nutrient tank.md" />
         <option value="$PROJECT_DIR$/_Sidebar.md" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -795,16 +796,16 @@
       <workItem from="1476733693915" duration="594000" />
       <workItem from="1476738092881" duration="27000" />
       <workItem from="1476738329064" duration="28000" />
-      <workItem from="1476825216471" duration="8759000" />
+      <workItem from="1476825216471" duration="9034000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16662000" />
+    <option name="totallyTimeSpent" value="16937000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="25" width="1366" height="715" extended-state="0" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -813,7 +814,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32928678" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3293919" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3293919" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2124431" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -1396,8 +1397,8 @@
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="90">
-            <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <first_editor relative-caret-position="135">
+            <caret line="9" column="95" selection-start-line="9" selection-start-column="95" selection-end-line="9" selection-end-column="95" />
             <folding />
           </first_editor>
           <second_editor />

@@ -1,3 +1,4 @@
+#normalOperations/adjustmentOfNutrientTank.md
 ##Synopsis.
 Describes the process of periodic adjustment of the nutrient solution in the [nutrient tank](Valve diagram).  
 As the plants grow, they drink water and eat the nutrients, so, every few days the nutrient tank needs to be adjusted. The need is indicated by the nutrient level dropping by a few inches. The nutrient solution level needs to be brought back up and nutrients components added in the right proportions to bring the total ppm to the [target level](Grow guidelines). Also, ph of the nutrient solution must be adjusted within acceptable range of 5.0-6.0ph as described in [grow guidelines](Grow guidelines)

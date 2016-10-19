@@ -1,3 +1,4 @@
+#emergencyOperations/general.md
 ## Synopsis
 Emergency procedures are not normal operations. This chapter describes the best remedies for unhappy events, such as power outages, failed equipment or just general bad luck. The system has enough manual overrides to handle it all up to a nuclear war but, perhaps, including it. 
 

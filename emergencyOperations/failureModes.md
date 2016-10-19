@@ -1,3 +1,4 @@
+#emergencyOperations/failureModes.md
 ##Synopsis
 **IT WILL NOT FAIL to fail given enough time**  
 But, most likely in one of the ways described here. The purpose of this article is not always to prevent the failure but to make user aware of what can go wrong and to raise attention to remedies and safe practices to minimize these unhappy events.  

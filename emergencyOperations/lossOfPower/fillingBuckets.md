@@ -1,3 +1,4 @@
+#emergencyOperations/lossOfPower/fillingBuckets.md
 ** Synopsis
 It is possible to fill the buckets manually when main pump is not available.
 

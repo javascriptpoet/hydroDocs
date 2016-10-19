@@ -6,7 +6,6 @@
 * [Draining RO tank](https://github.com/javascriptpoet/hydroDocs/blob/master/normalOperations/drainingROTank.md)
 * [Adjustments of nutrient tank](https://github.com/javascriptpoet/hydroDocs/blob/master/normalOperations/adjustmentsOfNutrientTank.md)
 * [Transfer from RO to nutrient tank](https://github.com/javascriptpoet/hydroDocs/blob/master/normalOperations/transferFromROToNutrientTank.md)
-
 ###Emergency operations
 * [General](https://github.com/javascriptpoet/hydroDocs/blob/master/emergencyOperations/general.md)
 * [Failure modes](https://github.com/javascriptpoet/hydroDocs/blob/master/emergencyOperations/failureModes.md)

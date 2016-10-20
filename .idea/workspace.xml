@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="74bcbc09-24d5-469e-a207-f5e66b6869d3" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/emergencyOperations/lossOfPower/drainingBuckets.md" afterPath="$PROJECT_DIR$/emergencyOperations/lossOfPower/drainingBuckets.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="hydroDocs.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -24,6 +24,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="transferFromROToNutrientTank.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/normalOperations/transferFromROToNutrientTank.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="0">
+                <caret line="0" column="49" selection-start-line="0" selection-start-column="49" selection-end-line="0" selection-end-column="49" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="maintenanceGuide.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/maintainance/maintenanceGuide.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
@@ -119,8 +132,8 @@
         <entry file="file://$PROJECT_DIR$/emergencyOperations/lossOfPower/fillingBuckets.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="0">
-                <caret line="0" column="50" selection-start-line="0" selection-start-column="50" selection-end-line="0" selection-end-column="50" />
+              <first_editor relative-caret-position="15">
+                <caret line="1" column="2" selection-start-line="1" selection-start-column="2" selection-end-line="1" selection-end-column="2" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -128,20 +141,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="bypassingFillValveS1.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/emergencyOperations/lossOfPower/bypassingFillValveS1.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="0">
-                <caret line="0" column="56" selection-start-line="0" selection-start-column="56" selection-end-line="0" selection-end-column="56" />
-                <folding />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="drainingBuckets.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="drainingBuckets.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/emergencyOperations/lossOfPower/drainingBuckets.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
@@ -179,7 +179,6 @@
         <option value="$PROJECT_DIR$/emergencyOperations/computelessOperations/fillingBuckets.md" />
         <option value="$PROJECT_DIR$/emergencyOperations/lossOfPower/bypassingFillValveS1.md" />
         <option value="$PROJECT_DIR$/emergencyOperations/lossOfPower/drainingROTank.md" />
-        <option value="$PROJECT_DIR$/emergencyOperations/lossOfPower/fillingBuckets.md" />
         <option value="$PROJECT_DIR$/emergencyOperations/failureModes.md" />
         <option value="$PROJECT_DIR$/emergencyOperations/general.md" />
         <option value="$PROJECT_DIR$/maintainance/maintenanceGuide.md" />
@@ -188,6 +187,8 @@
         <option value="$PROJECT_DIR$/normalOperations/drainingNutrientTank.md" />
         <option value="$PROJECT_DIR$/normalOperations/drainingROTank.md" />
         <option value="$PROJECT_DIR$/emergencyOperations/lossOfPower/drainingBuckets.md" />
+        <option value="$PROJECT_DIR$/emergencyOperations/lossOfPower/fillingBuckets.md" />
+        <option value="$PROJECT_DIR$/normalOperations/transferFromROToNutrientTank.md" />
       </list>
     </option>
   </component>
@@ -808,12 +809,12 @@
       <workItem from="1476733693915" duration="594000" />
       <workItem from="1476738092881" duration="27000" />
       <workItem from="1476738329064" duration="28000" />
-      <workItem from="1476825216471" duration="10998000" />
+      <workItem from="1476825216471" duration="11899000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18901000" />
+    <option name="totallyTimeSpent" value="19802000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="25" width="1366" height="715" extended-state="0" />
@@ -1214,17 +1215,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/hydroDocs.wiki/Manual-operations.md" />
-    <entry file="file://$PROJECT_DIR$/normalOperations/transferFromROToNutrientTank.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/hydroDocs.wiki/Home.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -1302,6 +1292,28 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/emergencyOperations/lossOfPower/bypassingFillValveS1.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="56" selection-start-line="0" selection-start-column="56" selection-end-line="0" selection-end-column="56" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/emergencyOperations/lossOfPower/drainingBuckets.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="15">
+            <caret line="1" column="2" selection-start-line="1" selection-start-column="2" selection-end-line="1" selection-end-column="2" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/emergencyOperations/lossOfPower/fillingBuckets.md">
       <provider editor-type-id="text-editor">
         <state relative-caret-position="60">
@@ -1311,8 +1323,8 @@
       </provider>
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="50" selection-start-line="0" selection-start-column="50" selection-end-line="0" selection-end-column="50" />
+          <first_editor relative-caret-position="15">
+            <caret line="1" column="2" selection-start-line="1" selection-start-column="2" selection-end-line="1" selection-end-column="2" />
             <folding />
           </first_editor>
           <second_editor />
@@ -1396,22 +1408,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/emergencyOperations/lossOfPower/bypassingFillValveS1.md">
+    <entry file="file://$PROJECT_DIR$/normalOperations/transferFromROToNutrientTank.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="0">
-            <caret line="0" column="56" selection-start-line="0" selection-start-column="56" selection-end-line="0" selection-end-column="56" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/emergencyOperations/lossOfPower/drainingBuckets.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="15">
-            <caret line="1" column="2" selection-start-line="1" selection-start-column="2" selection-end-line="1" selection-end-column="2" />
+            <caret line="0" column="49" selection-start-line="0" selection-start-column="49" selection-end-line="0" selection-end-column="49" />
             <folding />
           </first_editor>
           <second_editor />

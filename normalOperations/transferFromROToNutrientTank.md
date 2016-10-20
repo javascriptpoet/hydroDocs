@@ -21,6 +21,6 @@ If computer decides to do fill/drain cycle during the transfer, don't worry, jus
 * [M5](valve diagram) - closed
 * [M6](valve diagram) - closed
 * [M7](valve diagram) - closed
-* [M8](valve diagram) - closed
-* [M9](valve diagram) - open
+* [M8](valve diagram) - open
+* [M9](valve diagram) - closed
 * [M10](valve diagram) - closed
